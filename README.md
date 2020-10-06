@@ -8,4 +8,4 @@ It has been tested on ARFIMA (AutoRegressive Fractional Integral Moving Average)
 Interpretation of the coefficient :  CDCCA(s) = −1 for perfectly anti-correlated series, CDCCA(s) = 1 for perfectly correlated series and CDCCA(s) = 0 for uncorrelated processes.
 
 This package use the numpy package (http://numpy.scipy.org)
-![py-DCCA Design](DCCA_COEF.PNG)
+![py-DCCA Design](DCCA_COEF.png)
